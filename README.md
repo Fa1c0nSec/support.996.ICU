@@ -29,11 +29,11 @@ We encourage Microsoft and GitHub to keep the [996.ICU GitHub repository](https:
 
 Signed,
 
-__319 tech workers*__
+__355 tech workers*__
 
 签名，
 
-__319 名技术工作者*__
+__355 名技术工作者*__
 
 To other tech workers and industry supporters, we urge you to join us in our support of the 996.ICU movement.
 
@@ -53,6 +53,7 @@ Supported by / 支持者:
 
 * Adam Yi, Software Engineer
 * Adina Shanholtz, Microsoft
+* Aladdin(唯然), Software Engineer, Alibaba Inc. 
 * Albert Xu (Hanzong Xu), Software Engineer, Freelancer, Student
 * Alejandro Piad, College Prof., AI Researcher, University of Havana, Cuba
 * Aleksandra Culver, Senior Site Reliability Engineer, Google
@@ -66,6 +67,7 @@ Supported by / 支持者:
 * Amber Erickson, Software Engineer, Microsoft
 * Amr Gaber, Software Engineer, Google
 * Andrew Schwartzmeyer, Software Engineer, Microsoft
+* Angad Sharma, Software Engineering Student
 * Armaan Handa, Computer Engineer, Student
 * Ashe Connor, Senior Software Engineer, GitHub
 * Ashly Hamilton, Program Manager, Microsoft
@@ -83,12 +85,15 @@ Supported by / 支持者:
 * Camille Malonzo, Software Engineer Microsoft
 * Casey Hong, Microsoft
 * Cassie Mullins, Student/Software Engineer, Georgia Institute of Technology
+* Catherine Bui, Web designer, GitHub
 * Cathy Lee, Brand designer, Oscar Health
 * Chandler Harden, SDE Intern, IBM
 * Chao Tang(唐超), Software Engineer
 * Charles Davis, Data Analyst, UC Berkeley
 * Charles Zhang(张慕杨), Teacher, BDQN KGC
+* Chuan Du, Software Engineer,HUAWEI, Xian.China
 * Chelsea Wang, Product Designer, Facebook
+* Chen Nan, Developer, NanJing
 * Chen Rui (陈锐), 香港KC集团
 * Chen Xu, Senior Software Engineer, Microsoft
 * ChenBing Wang, Undergraduate, Peking University
@@ -97,11 +102,15 @@ Supported by / 支持者:
 * Chong Liu, Software Engineer, Corpy&Co., Inc.
 * Christina Dunbar-Hester, Ph.D. Author of Low Power to the People, MIT Press, University of Southern California
 * Christopher Senderling, Microsoft
+* Chuck Zhang, Amazon
 * Daniel Greene, Assistant Professor of Information Studies, University of Maryland
+* Danni She, Software Engineer, Amazon
 * Danyow Ed(朱俊鸿), iOS/Unity Engineer, Thumbparty.
 * Daofa Li, Ex-Microsoft Software Engineer, 2006-2018
+* Doan Pham Phu, Full-stack Web developer
 * David Ding(丁鼎), Software Engineer, Student
 * David Meyerson, Software Engineer II, Microsoft
+* Dean Tambling, Software Engineer, GitHub
 * DeepGrace, Senior C++ Expert
 * Deng Mao, Software Engineer, BONC
 * Dixing (Dex) Xu, Research Assistant, Nanyang Technological University
@@ -109,6 +118,7 @@ Supported by / 支持者:
 * Dong Jin Zhao, Software Engineer
 * Duke (吴涛), Sunning
 * Duo Zhang (张铎), Data Scientist, Broentech Solutions AS, Norway
+* Enchong Wang, Software Engineer, Microsoft
 * Emily Cunningham, UX Designer at Amazon
 * Eric Teo(张再朝), Student, Chongqing Jiaotong University
 * Erik Knechtel, Microsoft Contractor
@@ -131,6 +141,7 @@ Supported by / 支持者:
 * Han Yin, Front-end Developer
 * Hancel Lin, Software Engineer, GIGABYTE.
 * Hang Yang, eCreditpal
+* Hao Li (李皓), Applied Scientist, Amazon.
 * Hao Shi, Software Engineer, Independent Researcher, Student, University of Massachusetts at Amherst, Microsoft
 * Hao Tao, Web Developer, Bingo Information Co., Ltd.
 * Hao Xu, Azure Developer PMM, Microsoft
@@ -143,6 +154,7 @@ Supported by / 支持者:
 * HongBo Du, Software Engineer, Freelancer
 * Huajie Zhou, Student,Guangxi Normal University
 * Irene Knapp, Senior Software Engineer, Google
+* İsmail Gökhan Bayram, Tech Writer, Daily Evrensel
 * J. Li, Student of EE, Chongqing University of Posts and Telecommunications
 * JackEggie(Jack Tang), Software Engineer, Infor
 * Jackie Koon, student, South China University of Technology
@@ -153,10 +165,14 @@ Supported by / 支持者:
 * Jason Prado, Ex-Microsoft Software Engineer 2008-2009
 * Jay He, Software Engineer, Smart Testing Ltd, New Zealand
 * Jeremy Gross, Sales Engineer, InterSystems
+* Jessica Paoli, Web designer, GitHub
+* Jeff Liang, Software Development Engineer, Amazon Web Services
 * Jet Wong, Software Engineer, owasp
 * JiaChen Yuan, Front-End Engineer, Shanghai.China
 * Jiacong Wei, Hardware Engineer Intern, NVIDIA & Student, Fudan University
+* Jiadong Guo Software Engineer, ShenZhen.China
 * Jiang Siyuan, Hunan University
+* Jiandong Shi, Developer, Nanjing, China
 * Jiaxun Pu(蒲家训), Frontend Engineer, Shanghai.China
 * JiaYanwei(hltj), Technical Manager, NIO
 * Jie Wang, Maintenance, Hangzhou.China
@@ -167,6 +183,7 @@ Supported by / 支持者:
 * Jonathan Tomer, Software Engineer, Google
 * Josh McDuffie, Software Engineer, Constant Contact
 * Joshua Shao, Student, Rhode Island School of Design
+* J.S.Patrick,Front-end developer
 * JS Tan, Software Engineer, Microsoft
 * Julie Mayer, Senior Privacy Manager, Microsoft
 * Junhui Guan, Front-end Developer
@@ -187,6 +204,7 @@ Supported by / 支持者:
 * Lei Yao, Game Programmer, DarkSun Studio
 * Lei Zhao, Computer Science Master Student, USC
 * Leo Liu, Student, Department of Information and Communication Sciences, Sophia University
+* Leon Sun, System Engineer, Amazon
 * Leoython Chou, Software Engineer, CloudMall
 * Leroy Wang, Student, University of Washington
 * Li Dian, Front-end Developer, Software Engineer Student
@@ -208,6 +226,7 @@ Supported by / 支持者:
 * Long Minghui, Golang Senior Programmer
 * Lowell Bander, Software Engineer, Facebook
 * Luke Lin, Software Engineer
+* Luo Qian, Software Engineer, Guangzhou
 * Luxroid(MingWang Hao), Software Engineer, Freelancer
 * Lyon Chen, Full Stack Developer
 * Mai Zhanrun, Software Engineer, Guangzhou.China
@@ -222,8 +241,10 @@ Supported by / 支持者:
 * Massimiliano Del Maestro, Software-Engineer, Mantu
 * Matthew Wiegert, Economics from SUNY at Binghamton
 * Maverick Huang, student, hzwyjxy.com
+* Meng Xiang, Full Stack Engineer
 * Menglong Huang, Developer, PingCAP
 * Mengxi Yang, User Experience Designer, ThoughtWorks
+* Meng Xiang(项萌), Full Stack engineer
 * Meredith Whittaker, AI Now Institute Co-founder, NYU Distinguished Research Scientist, Google Open Research Founder
 * Michael Lebo Zhang, Computer Science PhD Candidate, UCSB
 * Miguel González-Fierro, Data Scientists, Microsoft
@@ -240,6 +261,7 @@ Supported by / 支持者:
 * Norman Sun, Mobile Developer, Freelancer
 * nufeng74(solarnumen), Software Engineer
 * Paul Leung, Network security Engineer, Labrusca Studio
+* Paulo Estraich, Backend Developer
 * Pavel Dubrova, Software Engineer, Freelancer
 * Pengli Liu, Software Engineer, Xi'an, China
 * Peoly, Software Engineer, EDU
@@ -255,6 +277,7 @@ Supported by / 支持者:
 * Rico Liu, Front_End Developer, Qing Dao
 * Robert Pupel, Software Engineer, Devs Group
 * Rock Yang, Software Engineer,Shen Zhen Dian Dian Block
+* Rocky Martin, Data Analyst, Criteo 
 * Roth Peng (Yu-Jhau, Peng), Frontend Developer, Trend Micro
 * Rui Chen(陈锐),Software Engineer, KC Group, Hong Kong
 * Ruibo Li, Software Developer, 51talk
@@ -263,10 +286,12 @@ Supported by / 支持者:
 * Satoshi Jek (Guangnan Jin), Student
 * Sean Gao, Senior Software Engineer
 * Sergey Alekhnovich, Software Engineer, iFood Decision Sciences
+* Seth Lin(XiuFeng Lin), Software Engineer, Fabric Group
 * Shan Zhou, Software Engineer, Microsoft
 * Shangsharon(姜尚伟), Software Engineer
 * ShanWu, Frontend Engineer, ThoughtWorks
 * Shaohua Huang, Software Engineer,Alibaba
+* Shaoqing Li, Front-End Engineer, China
 * Shen Lin, Front-End Developer, DHI China
 * Shengtao Li, Software Engineer, 66ifuel
 * SheQiao Zheng, Front-End Engineer, Jiawan Interactive
@@ -275,10 +300,14 @@ Supported by / 支持者:
 * Shuirong Lin, Front-end Developer, Freelancer, Student
 * ShunLi Ren(任顺利), Development Manager, 君晟合众 Beijing Network Technology Co
 * Shuo Hua, R&D Engineer, Agrointelli
+* Sian Lerk Lau, Software Engineer, Jewel Paymentech
 * Simon Zhao, Data & Applied Scientist, Microsoft
 * Soeng Gam Lu(卢相锦),Android App Developer,Yulin.China
+* Songwen Ding(丁松文), Software Engineer, Bytedance
 * Stephanie Parker, Policy Specialist, YouTube
+* Stephen Fong, Software Engineer, Student
 * Stephen Shen, Software Engineer, MoonLegend.GuiYang
+* Steven Hitchcock, Localization Tester, Microsoft
 * Sun-ha Hong, assistant professor, Simon Fraser University
 * Swen Wang,Software Engineer, Shanghai.China
 * Thomas Corwin, Software Engineer, Freelancer
@@ -300,9 +329,11 @@ Supported by / 支持者:
 * Wang Fei, Software Developer and Tech writer
 * Wang Qun Feng, Senior Software Engineer, XTDE
 * WangYun, Senior Software Engineer, ThoughtWorks
+* warmcheng(钱程), Android Engineer, Beijing.China
 * Wayne Wang, Senior Premier Field Eigineer, Microsoft
 * Weijie Hu, Software Engineer, ByteDance
 * Weilin Shi, Software Engineer, Vungle
+* Weiyou Zhu, Software Engineer, Shanghai.China
 * Wenbo Cheng, Software Engineer, Shanghai Jizhi Information Technology Co.,Ltd.
 * Wendy Liu, Tech Writer
 * Wenlong Liu(刘文龙), Software Engineer, LanZhou.China
@@ -332,6 +363,7 @@ Supported by / 支持者:
 * YangJun, CEO, Beijing Kirastar Technology Co., Ltd.
 * Yann Achard, Senior Software Engineer, Microsoft
 * Yao Yuan, AI Scientist, Pensees Ptd Ltd, Singapore
+* Yaoze Ye, Student
 * Yi Yang, product manager, Suning Corporation
 * Yi Yang, Product Manager, Suning Corporation
 * Yibo Wei, Mobile Developer, SAP
@@ -354,14 +386,18 @@ Supported by / 支持者:
 * Yutao Gu, Developer, Undergraduate student
 * Zachary Laborde, Software Developer, IBM
 * ZedeX Zhao, Director of Product, PingAn Group
+* Zehao Chen(陈泽浩), Software Engineer, Enjoylife
 * Zhang Yan Qiang (张言强), 杭州鑫火信息科技
+* ZhaoYu Jiang, Full-Stack Software Engineer, Computer Science Student
 * Zhaowei Zhong (钟兆玮), Student
 * Zhenwei Chen, Software Engineer
 * Zhida Liu, Software Engineer, Enjoylife
 * Zhonghua Qiang, Software Engineer, Sofu
 * Zhong Wei (钟威), PhD Student at Rochester Institute of Technology
 * Zhongyu Hwang, Android Software Engineer, Chongqing Genesis Network Technology Co.,Ltd
+* Zhou Quan, Software Engineer, SmartRecruiters
 * Zhuoran Wu, Machine Learning Engineer, Octi.tv
+* Zhou Quan, Software Engineer, SmartRecruiters
 * Ziang Chen, Software Engineer
 * ZiHang Gao, Software Engineer, IReader
 * Zion Chen, Software Engineer, SAP
@@ -369,4 +405,5 @@ Supported by / 支持者:
 * Zongbao Feng, Engineer, Baidu
 * Zora Tung, Software Engineer, Google
 * Zuokun Ouyang, PhD Student, Université d'Orléans
-* Zhou Quan, Software Engineer, SmartRecruiters
+* Xianli Si, Software Engineer, Belle International
+* Lang Qin, IC Verification Engineer, Globalfoundries
